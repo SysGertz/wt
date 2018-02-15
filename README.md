@@ -32,7 +32,8 @@
 
 ``` alert( 'Скажи мудрость, Джейсон.' );```
 
-```public class Statham {
+```
+public class Statham {
     public static void  main (String[] args){
        Statham.say();
     }
